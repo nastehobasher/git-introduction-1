@@ -1,0 +1,12 @@
+   1. Your name
+   2. Where you where born
+   3. What country do you want to live in
+   4. Your favourite movie
+   5. An interesting fact about yourself
+
+
+1. nasteho yousuf bashir
+2. hargeisa
+3. america
+4. Stranger Thing
+5. effort 
